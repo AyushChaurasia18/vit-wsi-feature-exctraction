@@ -46,8 +46,6 @@ streamlit run feature_exctraction.py
 
 ---
 
-![App Screenshot](Preview 1.png)
-
 
 ## FLOPs Estimation Methodology
 
